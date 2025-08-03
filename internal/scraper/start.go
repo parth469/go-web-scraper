@@ -26,13 +26,21 @@ func Init() error {
 				return
 			}
 
-			if !currentEventDate.IsZero() {
-				if tr.ChildText("td:nth-child(1)") != "" {
-					timeString = tr.ChildText("td:nth-child(1)")
-				}
+			if currentEventDate.IsZero() {
+				return
+			}
 
-				dailyEvent = ProcessDailyEvent(currentEventDate, tr, timeString)
-				fullEvents = append(fullEvents, dailyEvent)
+			if tr.ChildText("td:nth-child(1)") != "" {
+				timeString = tr.ChildText("td:nth-child(1)")
+			}
+
+			dailyEvent = ProcessDailyEvent(currentEventDate, tr, timeString)
+			fullEvents = append(fullEvents, dailyEvent)
+
+			if dailyEvent.EventType == "Poster" {
+				link := tr.ChildAttr("td:nth-child(2) a", "href")
+				subCollector := c.Clone()
+				ProcessPoster(link, dailyEvent, subCollector)
 			}
 		})
 	})

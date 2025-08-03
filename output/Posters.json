@@ -1,0 +1,4970 @@
+[
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Measuring Cognitive Control in Vision-Language Models",
+    "presenter": "Dezhi Luo",
+    "poster_id": "A1",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Response Strategy Reverses Serial Dependence: From Attraction to Repulsion",
+    "presenter": "Aviel Sulem",
+    "poster_id": "A2",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Dynamics of neural representations that support generalization under continual learning",
+    "presenter": "Daniel L. Kimmel",
+    "poster_id": "A3",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Situational Dimensions that drive Event Boundaries",
+    "presenter": "Gabriel Arthur Daniel Kressin Palacios",
+    "poster_id": "A4",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "The Influence of Expectations on Recurrent Processing During Challenging Image Recognition",
+    "presenter": "Paulo A. Ortiz",
+    "poster_id": "A5",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Predictive Coding algorithms induce brain-like responses in Artificial Neural Networks",
+    "presenter": "Dirk C. Gütlin",
+    "poster_id": "A6",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Characterizing ADHD-Related Inhibitory Control Deficits via Multidimensional EEG Signatures",
+    "presenter": "Negin Gholamipourbarogh",
+    "poster_id": "A7",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "From seeing to seeking: belief-based exploration in gamified environments",
+    "presenter": "Thirza Dado",
+    "poster_id": "A8",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Valence Computation as Higher-order Inference via Conceptual Self-Processing",
+    "presenter": "Yuyue Jiang",
+    "poster_id": "A9",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Time-Resolved EEG Decoding Reveals a Flip from Enhanced Expected to Unexpected Action Outcomes",
+    "presenter": "Kirsten Rittershofer",
+    "poster_id": "A10",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Modality-Agnostic Representations are Widespread Across the Cortex",
+    "presenter": "Mitja Nikolaus",
+    "poster_id": "A11",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Suboptimal human decision-making reflects an efficient information bottleneck on inference",
+    "presenter": "Jacob A Parker",
+    "poster_id": "A12",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Surprising narrative events elicit convergent responses in the brain, subjective reports, and large language models",
+    "presenter": "Ziwei Zhang",
+    "poster_id": "A13",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Approximate Bayesian computation with a complex internal model naturally combines probabilistic inference and heuristics",
+    "presenter": "Ádám Koblinger",
+    "poster_id": "A14",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Prefrontal Representations During Learning Reflect Probabilistic Computations Across Domains",
+    "presenter": "Fahd Yazin",
+    "poster_id": "A15",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Bayesian modeling reveals distinct priors for tactile and proprioceptive localization",
+    "presenter": "Hüseyin Orkun Elmas",
+    "poster_id": "A16",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "The effect of task switching on cognitive fatigue",
+    "presenter": "Nastasia Klevak",
+    "poster_id": "A17",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Sequence Models for By-Trial Decoding of Cognitive Strategies from Neural Data",
+    "presenter": "Rick den Otter",
+    "poster_id": "A18",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Pupil dilations reflect surprisal during rapid auditory belief updating",
+    "presenter": "Robert Baumgartner",
+    "poster_id": "A19",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Metacognitive insight into decision caution",
+    "presenter": "Yvonne F. Visser",
+    "poster_id": "A20",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Neural correlates of prediction during naturalistic event perception",
+    "presenter": "Yuye Huang",
+    "poster_id": "A21",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Homeostasis After Injury: How Intertwined Inference and Control Underpin Post-Injury Pain and Behaviour",
+    "presenter": "Pranav Mahajan",
+    "poster_id": "A22",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Estimating the Synaptic Efficacies of the Drosophila Optical Lobe Full Connectome with Predictive Coding",
+    "presenter": "Rintaro Kai",
+    "poster_id": "A23",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Leveraging Multi-task Structure for Cognitive Flexibility",
+    "presenter": "Xiaoyu K Zhang",
+    "poster_id": "A24",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Testing the predictive processing model of placebo hypoalgesia using multivariate hierarchical models: evidence for precision weighted effects of expectations and Bayesian updating of expectations accounting for volatility",
+    "presenter": "Arthur S. Courtin",
+    "poster_id": "A25",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Where you look in the past biases your social inference",
+    "presenter": "Sangkyu Son",
+    "poster_id": "A26",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Behavioral Dynamics of Cognitive and Metacognitive Conflict",
+    "presenter": "Jintao Xing",
+    "poster_id": "A27",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "From Language to Cognition: How LLMs Outgrow the Human Language Network",
+    "presenter": "Badr AlKhamissi",
+    "poster_id": "A28",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "How Does an LLM Process Conflicting Information In-Context?",
+    "presenter": "Ivan Andre Naranjo Coronel",
+    "poster_id": "A29",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Cortical representations are similar across English and Chinese for both concrete and abstract concepts",
+    "presenter": "Mathis Lamarre",
+    "poster_id": "A30",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Vowel Duration Is Encoded Relative to the Contextual Speech Rate Throughout Cortical Auditory Processing",
+    "presenter": "Mara Wolter",
+    "poster_id": "A31",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "(Dis)similarities in Temporal Neural Dynamics during Reading and Listening",
+    "presenter": "Jiawei Li",
+    "poster_id": "A32",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Intermediate Layers of LLMs Align Best With the Brain by Balancing Short- and Long-Range Information",
+    "presenter": "Michela Proietti",
+    "poster_id": "A33",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Uncovering Linguistic Representations in MEG Data Using Deep Learning",
+    "presenter": "Nikola Kölbl",
+    "poster_id": "A34",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants",
+    "presenter": "Louis Jalouzot",
+    "poster_id": "A35",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Multilingual Computational Models Reveal Shared Brain Responses to 21 Languages",
+    "presenter": "Andrea Gregor de Varda",
+    "poster_id": "A36",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Neural Signatures of Argument Structure Constructions",
+    "presenter": "Pegah Ramezani",
+    "poster_id": "A37",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Not all induction heads are created equal",
+    "presenter": "Eric Schulz",
+    "poster_id": "A38",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Temporal Straightening as a Predictive Mechanism in Human Language Processing",
+    "presenter": "Jiaming Xu",
+    "poster_id": "A39",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT’s Representations",
+    "presenter": "Robin Sobczyk",
+    "poster_id": "A40",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "The developmental trajectory and neuroanatomical correlates of speech comprehension",
+    "presenter": "Jill Kries",
+    "poster_id": "A41",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Can LLMs inform us about predictive processing during natural listening in MEG?",
+    "presenter": "Sahel Azizpour",
+    "poster_id": "A42",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "The Representational Alignment between Humans and Language Models is implicitly driven by a concreteness effect",
+    "presenter": "Cosimo Iaia",
+    "poster_id": "A43",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Finding Modularity in Large Language Models: Insights from Aphasia Simulations",
+    "presenter": "Jixing Li",
+    "poster_id": "A44",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Temporal dynamics of natural sounds representation in the human brain",
+    "presenter": "Marie Plegat",
+    "poster_id": "A45",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Many-to-Many, Yet Convergent: Insights into the alignment of Vision and Language Models",
+    "presenter": "Zoe Wanying He",
+    "poster_id": "A46",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Working Memory Reactivation Across Embedded Structures during Natural Language Comprehension",
+    "presenter": "Jiaqi Li",
+    "poster_id": "A47",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Decoding Semantics: A Multi-Modal CNN as a Model for Human Literacy Acquisition",
+    "presenter": "Tommy Clausner",
+    "poster_id": "A48",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Behavioral relevance of high-dimensional neural representations",
+    "presenter": "Chihye Han",
+    "poster_id": "A49",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Feature-based Modeling of Visual Attention in Autism:  A Large-scale Online Eye-tracking Study",
+    "presenter": "Qianying Wu",
+    "poster_id": "A50",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "A Virtual Manipulation Task to Probe Human Interactions with Diverse Physical Objects",
+    "presenter": "Giacomo Aldegheri",
+    "poster_id": "A51",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Evaluating Model-to-Human Alignment on Image Occlusion",
+    "presenter": "Ehsan Tousi",
+    "poster_id": "A52",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Orientation Bias and Abstraction in Working Memory: Evidence from Vision Models and Behaviour",
+    "presenter": "Fabio Bauer",
+    "poster_id": "A53",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Five animacy dimensions and the CLIP model explain complementary components of visual representational dynamics and similarity judgments",
+    "presenter": "Kamila Maria Jozwik",
+    "poster_id": "A54",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Glimpse prediction fosters graph-oriented scene representations aligned with the ventral visual cortex",
+    "presenter": "Sushrut Thorat",
+    "poster_id": "A55",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "How Decision-Process Information Shapes Inferences in Cooperative Interactions",
+    "presenter": "Mrugsen Nagsen Gopnarayan",
+    "poster_id": "A56",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Comparing Object Selectivity in Visual Cortex and Topographic Deep Artificial Neural Networks",
+    "presenter": "Davide Cortinovis",
+    "poster_id": "A57",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Learning task-relevant visual features from large language model (LLM) embeddings",
+    "presenter": "Michelle R. Greene",
+    "poster_id": "A58",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Object Position, But Not Identity, Is Decodable During Object Permanence with MEG",
+    "presenter": "Apurva Ratan Murty",
+    "poster_id": "A59",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Distinct Computational Mechanisms Underlie Holistic Processing of Faces and Non-Face Line Patterns",
+    "presenter": "Elaheh Akbari-fathkouhi",
+    "poster_id": "A60",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Can Scene Graph Properties Explain the Neural Encoding Performance of Vision Transformers?",
+    "presenter": "Helena Balabin",
+    "poster_id": "A61",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "The human superior colliculus encodes looming- and object-related visual threat",
+    "presenter": "Monica Thieu",
+    "poster_id": "A62",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Prior Scene Context Modulates the Dynamic Interplay Between Bottom-Up and Top-Down Neural Processes in Face Detection",
+    "presenter": "Sule Tasliyurt Celebi",
+    "poster_id": "A63",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Deep Neural Networks Provide Insights into Distinct and Shared Selectivity for Faces and Bodies in Human Visual Cortex",
+    "presenter": "Leonard E van Dyck",
+    "poster_id": "A64",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "An Ecological and Objective Neural Marker of Implicit Identity Recognition",
+    "presenter": "Meike Ramon",
+    "poster_id": "A65",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Neural representation of occluded objects in visual cortex",
+    "presenter": "Fraser W Smith",
+    "poster_id": "A66",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Isolating sparse, category-computing circuits in deep neural networks",
+    "presenter": "Jeffery W. Andrade",
+    "poster_id": "A67",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Neural representations of implied motion in body-selective regions revealed by caption-based encoding models",
+    "presenter": "Ryuto Yashiro",
+    "poster_id": "A68",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Temporal misalignment in scene perception: Divergent representations of locomotive action affordances in human brain responses and DNNs",
+    "presenter": "Clemens Georg Bartnik",
+    "poster_id": "A69",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Risk-sensitive reinforcement learning processes in the human brain drive impulsive choice",
+    "presenter": "Rhiannon L Cowan",
+    "poster_id": "A70",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "When jackpot misleads:  The disrupting role of rare rewards in value learning",
+    "presenter": "Luning He",
+    "poster_id": "A71",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Perceptual Choices and Confidence Judgements can be Modelled as a Single Accumulation Process",
+    "presenter": "Kobe Desender",
+    "poster_id": "A72",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Computational Modeling of Heuristic and Base-rate Integration in Reasoning",
+    "presenter": "Jérémie Beucler",
+    "poster_id": "A73",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Decision Commitment with Incomplete Evidence",
+    "presenter": "Juan R. Castiñeiras de Saa",
+    "poster_id": "A74",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "One-shot reinforcement learning decisions engage the hippocampus",
+    "presenter": "Christopher S. Iyer",
+    "poster_id": "A75",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Uncovering brain-wide planning strategies with deep RL: Lessons from the Tower of Hanoi",
+    "presenter": "Austin Tudor David Andrews",
+    "poster_id": "A76",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Fast and robust Bayesian inference for modular combinations of dynamic learning and decision models",
+    "presenter": "Alexander Fengler",
+    "poster_id": "A77",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Meta-Reinforcement Learning in Homeostatic Regulation",
+    "presenter": "Naoto Yoshida",
+    "poster_id": "A78",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Experiential value neglect is robust to changes in learning architecture and nature of outcomes",
+    "presenter": "Caroline Pioger",
+    "poster_id": "A79",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Neurocomputational modeling of leadership in delegation decisions",
+    "presenter": "Hun S. Choi",
+    "poster_id": "A80",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Computational Modeling of Choice Frequency in Habitual Behavior:  A Pre-Registered fMRI Study",
+    "presenter": "Hugo Fluhr",
+    "poster_id": "A81",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Adaptive attentional prioritisation of advice for decision making",
+    "presenter": "Rumandeep K. Hayre",
+    "poster_id": "A82",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Exertion of Effort Reduces the Willingness to Exert Effort for Rewards in the Future",
+    "presenter": "Selma Lugtmeijer",
+    "poster_id": "A83",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Distinct Value and Choice Information Across Putative Subtypes of Primate Orbitofrontal Neurons",
+    "presenter": "Emirhan Bugra Albayrak",
+    "poster_id": "A84",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Task-space dimensions guide human exploration in complex environments",
+    "presenter": "Jiahui An",
+    "poster_id": "A85",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Disentangling consistency and reward in repeated moral decisions with mouse tracking and fMRI",
+    "presenter": "Xinyi Julia Xu",
+    "poster_id": "A86",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Latent dimensions in neural representations predict choice context effects",
+    "presenter": "Asaf Madar",
+    "poster_id": "A87",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "A joint model of risk-taking and learning related to risks based on behavioral and prefrontal oxygenation measures",
+    "presenter": "Murat Perit Cakir",
+    "poster_id": "A88",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Mid-level arousal facilitates optimal behavioral state in humans and mice",
+    "presenter": "Jan Willem de Gee",
+    "poster_id": "A89",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Reward morphs non-spatial cognitive maps in humans",
+    "presenter": "Nir Moneta",
+    "poster_id": "A90",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Distinct Microstructural Brain Correlates of Inter-individual Differences in Reward Learning and Decision-Making",
+    "presenter": "Melina Vejlø",
+    "poster_id": "A91",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Decision-making reference point biases in the dorsal anterior cingulate cortex",
+    "presenter": "Demetrio Ferro",
+    "poster_id": "A92",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Mouse lockbox: a sequential mechanical decision-making task for freely moving mice",
+    "presenter": "Marcus Nicolaas Boon",
+    "poster_id": "A93",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Eye-tracking based Bayesian inference for adaptive decision making and planning processes in a dynamic environment",
+    "presenter": "Sanghyun Park",
+    "poster_id": "A94",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "A new multi-level Theory of Mind model for strategic decision-making scenarios",
+    "presenter": "Giorgio L Manenti",
+    "poster_id": "A95",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Confidence in approach-avoidance conflict",
+    "presenter": "Oleg Solopchuk",
+    "poster_id": "A96",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Bidirectional Interactions between Local and Global Confidence Explain the Pervasive Effect of Confidence Biases",
+    "presenter": "Hélène Van Marcke",
+    "poster_id": "A97",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Discounting and Drug Seeking in Biological Hierarchical Reinforcement Learning",
+    "presenter": "Boris S. Gutkin",
+    "poster_id": "A98",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Not Just Habits: How Feedback Sensitivity and Belief Updating Shape OCD",
+    "presenter": "Lev Kiar Avberšek",
+    "poster_id": "A104",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Introducing the CORTEX Database: COntext-dependent Reinforcement learning and Transfer EXperiments",
+    "presenter": "Isabelle Hoxha",
+    "poster_id": "A105",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Environmental Conflict Modulates Pavlovian Bias: A Computational Account",
+    "presenter": "Priyanshu",
+    "poster_id": "A106",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "How neurocomputational mechanisms of number perception  adapt to prior expectations",
+    "presenter": "Gilles de Hollander",
+    "poster_id": "A107",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Enhancing OCD classification with Transformer-based deep learning on resting-state fMRI: insights from the ENIGMA-OCD cohort and UK Biobank pretraining",
+    "presenter": "Maria Pak",
+    "poster_id": "A108",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Cognitive Underpinnings of Dyscalculia: Insights from Behavioral Modeling",
+    "presenter": "Maike Renkert",
+    "poster_id": "A109",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "A Spatial Tagging Mechanism for Biasing Gaze and Reflexive Selection in Memorized Visual Space",
+    "presenter": "Priyanka Gupta",
+    "poster_id": "A110",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Association Learning with Myelin Plasticity",
+    "presenter": "Charles Shvartsman",
+    "poster_id": "A111",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Perspective: Home-based Sleep Intervention for Dementia Prevention",
+    "presenter": "Tomasz M Rutkowski",
+    "poster_id": "A112",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Evaluating Models of Naturalistic Episodic Memory",
+    "presenter": "Mathis Pink",
+    "poster_id": "A113",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "An Entorhinal-hippocampal Systems Model for Spatial Navigation and Memory",
+    "presenter": "Zilong Ji",
+    "poster_id": "A114",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "What are the best features to decode the levels of working memory load from ECoG data?",
+    "presenter": "Funda Yilmaz",
+    "poster_id": "A115",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Putting Working Memory to Work",
+    "presenter": "Ziyi Duan",
+    "poster_id": "A116",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Neural Predictors of Subsequent Long-Term Memory After (De)prioritization in Working Memory",
+    "presenter": "Frieda Born",
+    "poster_id": "A117",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Emergence of the Primacy Effect in Structured State-Space Models",
+    "presenter": "Takashi Morita",
+    "poster_id": "A118",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Decoupling levels of learning: behavioral evidence for dissociable low- and high-level structure learning",
+    "presenter": "Beáta Tünde Szabó",
+    "poster_id": "A119",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Learning task rule updating strategies requires extensive practice",
+    "presenter": "Shengjie Xu",
+    "poster_id": "A120",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Soundscape Neuroarts and Cognitive Well-being: EEG and fNIRS  Approach",
+    "presenter": "Tomasz Komendzinski",
+    "poster_id": "A121",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Unveiling Neural Mechanisms of Memorability: Generative AI Reveals Brain-Behavior Links",
+    "presenter": "Hyewon Willow Han",
+    "poster_id": "A122",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Functional Role Division in Working Memory Emerges from Intrinsic Neural Timescale Diversity",
+    "presenter": "Tomoki Kurikawa",
+    "poster_id": "A123",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Continuous-time Bayesian causal structure learning explains dopamine and behavioral anomalies in associative learning experiments",
+    "presenter": "John Vastola",
+    "poster_id": "A124",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "An Algorithmic Model of Working Memory Based on Sparse Variational Gaussian Processes",
+    "presenter": "Dongyu Gong",
+    "poster_id": "A125",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "‘NOT GATE’, Not ‘GATE’:  Long-term Memory Interplay with Working Memory via Reversal Coding",
+    "presenter": "Shengyuan Wang",
+    "poster_id": "A126",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Simultaneity or Rhythmic sampling in working memory? Examining the temporal dynamics of maintaining multiple items in human EEG and gaze patterns",
+    "presenter": "Felix Bröhl",
+    "poster_id": "A127",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "The influence of blocked versus interleaved training regimes and sleep on multi-task learning",
+    "presenter": "Mina Habibi",
+    "poster_id": "A128",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Enabling Lifelong Learning in AI with Biological Neural Networks Based on Short-Term, Working, and Long-Term Memory",
+    "presenter": "Hanav Modasiya",
+    "poster_id": "A129",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Flexible Prefrontal Control over Hippocampal Episodic Memory for Goal-Directed Generalization",
+    "presenter": "Nora Wolf",
+    "poster_id": "A130",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Evidence for Shepard’s Law in the Representational Spaces of Deep Vision Models",
+    "presenter": "Daniel L. Carstensen",
+    "poster_id": "A131",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Anticipated Relevance Modulates Early Visual Processing",
+    "presenter": "Lasse Dietz",
+    "poster_id": "A132",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Top-Down Propagation of Neural State Boundaries During Movie Viewing",
+    "presenter": "Linda Geerligs",
+    "poster_id": "A133",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Rapid unsupervised alignment with the natural image manifold",
+    "presenter": "Ananya Passi",
+    "poster_id": "A134",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Using Artificial Neural Networks to Understand Fluency in the Perception of Paintings",
+    "presenter": "Yi Lin",
+    "poster_id": "A135",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Sparks of cognitive flexibility: self-guided context inference for flexible stimulus-response mapping by attentional routing",
+    "presenter": "Rowan P. Sommers",
+    "poster_id": "A136",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Rotating Snakes Illusion Reveals Limitations of Visual-Motion Models in Explaining Human Vision",
+    "presenter": "Isabella Elaine Rosario",
+    "poster_id": "A137",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Behavioural markers of recurrent processing in the brain",
+    "presenter": "Timothee Maniquet",
+    "poster_id": "A138",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Modeling human visual neural representations by combining vision deep neural networks and large language models",
+    "presenter": "Boyan Rong",
+    "poster_id": "A139",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Cross-Subject Brain Decoding for  Naturalistic Movie Reconstruction",
+    "presenter": "Myeonggyo Jeong",
+    "poster_id": "A140",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "On the Origin of 3D Perception in Visual World Models",
+    "presenter": "Wanhee Lee",
+    "poster_id": "A141",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Straightening of Natural Visual Sequences in Video DNNs: the Role of Locality and Temporal Coherence",
+    "presenter": "Anne W. Zonneveld",
+    "poster_id": "A142",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Modeling the Hierarchy of the Human Olfactory Perceptual Space via Hyperbolic Embeddings",
+    "presenter": "Farzaneh Taleb",
+    "poster_id": "A143",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Characterizing the temporal profile of meaning-making with visual art",
+    "presenter": "Dominik Welke",
+    "poster_id": "A144",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Unravelling the relationship between location and categorisation improves convolutional neural networks",
+    "presenter": "Jean-Nicolas Jérémie",
+    "poster_id": "A145",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Neural encoding with affine feature response transforms",
+    "presenter": "Steven Scholte",
+    "poster_id": "A146",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Gestalt processing in late-sighted children and deep neural networks",
+    "presenter": "Lukas Vogelsang",
+    "poster_id": "A147",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Brittle Brain Encoding: Poor Out-of-Distribution Generalization Shows the Human Brain is neither a Nintendo Entertainment System nor a Four-Layer Convolutional Neural Network",
+    "presenter": "Yann Harel",
+    "poster_id": "A148",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Human-like compositional visual inference through neural diffusion on syntax trees",
+    "presenter": "Sylvia Blackmore",
+    "poster_id": "A149",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "It’s a feature, not a bug: Multi-granular world models explain inattentional blindness",
+    "presenter": "Mario Belledonne",
+    "poster_id": "A150",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Topographic Vision Transformers",
+    "presenter": "Yash Shah",
+    "poster_id": "A151",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Head-Direction Cells in Postsubiculum Show Systematic Parallax Errors During Visual Anchoring",
+    "presenter": "Sven Krausse",
+    "poster_id": "A152",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Dynamical changes in functional organization resolve ambiguous motion perception",
+    "presenter": "Alessandra Pizzuti",
+    "poster_id": "A153",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Mapping Modular Processing of Compressed Videos Across Human Visual Cortex",
+    "presenter": "Christina Sartzetaki",
+    "poster_id": "A154",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "High-Level Perceptual Learning for Initially Ambiguous Stimuli",
+    "presenter": "Logan T. Dowdle",
+    "poster_id": "A155",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Ventral Stream Responses to Inanimate Objects are Equally Aligned with AlexNet (2012) and Modern Deep Neural Networks",
+    "presenter": "Leilany Torres Diaz",
+    "poster_id": "A156",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Universally Controversial Stimuli Reveal that Adversarial Robustness Improves DNN Prediction Accuracy across the Entire Human Auditory Cortex",
+    "presenter": "David Skrill",
+    "poster_id": "A157",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Testing a Learning Theory of Aesthetic Appeal Using Category Learning and Deep Neural Networks",
+    "presenter": "Edward A Vessel",
+    "poster_id": "A158",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "A more selective integration function to improve deep neural network models of visual perception",
+    "presenter": "Michael W. Spratling",
+    "poster_id": "A159",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Deep neural networks can learn generalizable same-different visual relations",
+    "presenter": "Alexa R. Tartaglini",
+    "poster_id": "A160",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Modeling the Human Visual System: Comparative Insights from Response-Optimized and Task-Optimized Vision Models, Language Models, and different Readout Mechanisms",
+    "presenter": "Shreya Saha",
+    "poster_id": "A161",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Sampling Rate and Task Selection in EEG-Authentication",
+    "presenter": "Polina Tapal",
+    "poster_id": "A162",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Up-down states and criticality in a chain of adaptive excitable integrators",
+    "presenter": "Mario Martinez-Saito",
+    "poster_id": "A163",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Harmonizing resting state functional MRI data to increase sample size and to classify tinnitus brain connectivity",
+    "presenter": "Shagun Ajmera",
+    "poster_id": "A164",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Neural oscillations encode context-based informativeness during naturalistic free viewing",
+    "presenter": "Songyun Bai",
+    "poster_id": "A165",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Graph-Attention-Based Integration of Brain Structure and Function for Trait Anxiety Prediction: Preliminary Results",
+    "presenter": "Jungyoun Janice Min",
+    "poster_id": "A166",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Multi-task batteries for individual brain mapping: Experimental design and implementation",
+    "presenter": "Jörn Diedrichsen",
+    "poster_id": "A167",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Automated characterization of naturalistic behaviors in a chronic model of epilepsy",
+    "presenter": "Aurélie De Groote",
+    "poster_id": "A168",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "nCREANN:Nonlinear Brain Connectivity and Diverse Applications",
+    "presenter": "Nasibeh Talebi",
+    "poster_id": "A169",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Working memory synchronizes oscillations in visual cortex",
+    "presenter": "Mrugank Dake",
+    "poster_id": "A170",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Multi-task batteries for individual brain mapping: Optimal battery selection for brain parcellation and connectivity modeling",
+    "presenter": "Bassel Arafat",
+    "poster_id": "A171",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Evidence accumulation across the senses in the face of causal uncertainty",
+    "presenter": "Jochem Beurskens",
+    "poster_id": "A172",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Partially recurrent neural networks maximize performance and minimize wiring",
+    "presenter": "Marcus Ghosh",
+    "poster_id": "A173",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Representations of past and future event boundaries from naturalistic experience are reactivated in the Default Mode Network during recall",
+    "presenter": "Avital Hahamy",
+    "poster_id": "A174",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "SwiFT V2: Towards Large-scale Foundation Model for Functional MRI",
+    "presenter": "Jiook Cha",
+    "poster_id": "A175",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Rhythmic interactions between early visual areas and prefrontal cortex  predict bistable perception",
+    "presenter": "Yanni Zhang",
+    "poster_id": "A176",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Communication versus computation: The hidden costs, shaping the brain's architecture",
+    "presenter": "Kayson Fakhar",
+    "poster_id": "A177",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Emergent oscillations in a cortical column model of predictive coding with multiple interneuron types",
+    "presenter": "Kwangjun Lee",
+    "poster_id": "A178",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Learning richness modulates equality reasoning in neural networks",
+    "presenter": "William Lingxiao Tong",
+    "poster_id": "A179",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Understanding Diverse Reasoning Procedures in Foundation Models via Mechanistic Interpretability",
+    "presenter": "Mohanna Hoveyda",
+    "poster_id": "A180",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Adaptive decoding of temporally variable neural activity in single-trial time series",
+    "presenter": "Pablo Oyarzo",
+    "poster_id": "A181",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Framed RSA: honoring representational geometry and regional-mean response preferences",
+    "presenter": "JohnMark Taylor",
+    "poster_id": "A182",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Neuroinflammatory Cascades in Urethritis-Mediated Cognitive Dysfunction: Computational Frameworks and Multiscale Modeling Perspectives",
+    "presenter": "Saket Ram Ganti",
+    "poster_id": "A183",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Universal Differential Equations as a Common Modeling Language for Neuroscience",
+    "presenter": "Ahmed ElGazzar",
+    "poster_id": "A184",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Comparing different criteria for neural dimensionality estimation",
+    "presenter": "Francesco Edoardo Vaccari",
+    "poster_id": "A185",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Sequential Memory Generation in the Neuroidal Model",
+    "presenter": "Patrick Riley Perrine",
+    "poster_id": "A186",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Representational tuning models: Uniting representational similarity analysis and neural encoding models.",
+    "presenter": "Stan Bergey",
+    "poster_id": "A187",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Interpretation of Individual Differences in Cognitive Computational Neuroscience",
+    "presenter": "Jessica Schaaf",
+    "poster_id": "A188",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Functional Inter-Subject Alignment Outperforms Anatomical Alignment on fMRI Data in Inter-Subject Information Transfer",
+    "presenter": "Leo Michalke",
+    "poster_id": "A189",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Using Llama-3 to Refine Psychotherapy in Silico",
+    "presenter": "Kristin Witte",
+    "poster_id": "A190",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "High Entropy Deep Brain Stimulation for Treatment Resistant Depression",
+    "presenter": "Lily Chamakura",
+    "poster_id": "A191",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Bridging Critical Gaps in Convergent Learning: How Representational Alignment Evolves Across Layers, Training, and Distribution Shifts",
+    "presenter": "Chaitanya Kapoor",
+    "poster_id": "A192",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "A mathematical theory of relational generalization in the face of exceptions",
+    "presenter": "Luke Cheng",
+    "poster_id": "B1",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Dissociable Effects of Uncertainty in Perceptual and Cognitive Control",
+    "presenter": "Julian Q. Kosciessa",
+    "poster_id": "B2",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural Mechanism of Compositional Generalization",
+    "presenter": "Zilu Liang",
+    "poster_id": "B3",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Integrating explicit reliability for optimal choices: effect of trustworthiness on decisions and meta-decisions",
+    "presenter": "Lucie Charles",
+    "poster_id": "B4",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Subjective, more than objective, expectation and surprise explain perceptual decisions during learning",
+    "presenter": "Jessye Clarke",
+    "poster_id": "B5",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Dissociable Dynamic Effects of Expectation During Statistical Learning Across Cortical Layers",
+    "presenter": "Hannah H McDermott",
+    "poster_id": "B6",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "A perceptual repulsion from gravitational expectations of acceleration",
+    "presenter": "Nick Simpson",
+    "poster_id": "B7",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Apathy as a Loss of Prior Precision in the Bayesian Brain",
+    "presenter": "Rebecca S Williams",
+    "poster_id": "B8",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "A hierarchy of metacognitive capacities",
+    "presenter": "Sophie Bavard",
+    "poster_id": "B9",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Learning Multisensory Representations Using Predictive Coding",
+    "presenter": "Parva Alavian",
+    "poster_id": "B10",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Paradigms for probing socio-affective Bayesian inference in individuals with blunted affect – preliminary insights",
+    "presenter": "Katharina V. Wellstein",
+    "poster_id": "B11",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "The relationship between pupil dilation and neural surprise in natural language comprehension",
+    "presenter": "Quirin Gehmacher",
+    "poster_id": "B12",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Five Illusions Challenge Our Understanding of Visual Experience",
+    "presenter": "Paul Linton",
+    "poster_id": "B13",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Are Prediction Error Attenuations Domain-specific in Autism but Domain-general in ADHD?",
+    "presenter": "Irene Sophia Plank",
+    "poster_id": "B14",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Single-Neuron Evidence for Attention and Prediction Error to  Nested Auditory Regularities in the Human Auditory Cortex",
+    "presenter": "Vinicius Rezende Carvalho",
+    "poster_id": "B15",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Predictions emerge in neural networks trained to perceive Bach's music",
+    "presenter": "Alejandro Tabas",
+    "poster_id": "B16",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Audiovisual Integration Follows Different Rules for Perceptual and Metacognitive Decisions",
+    "presenter": "Porte Perrine",
+    "poster_id": "B17",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural representations that resist interference",
+    "presenter": "Xian Li",
+    "poster_id": "B18",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Confidence in Sound Localization Reflects Calibrated Uncertainty Estimation",
+    "presenter": "Sagarika Alavilli",
+    "poster_id": "B19",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Mechanism of learning and inference in the prefrontal cortex",
+    "presenter": "Shuyi Luo",
+    "poster_id": "B20",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Valuation Precision: from Behavioral Measures to Computational Modeling and Neural Underpinnings",
+    "presenter": "Hui-Kuan Chung",
+    "poster_id": "B21",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Adaptive planning and policy mixture explain the naturalistic foraging in 3D virtual reality.",
+    "presenter": "Jae Young Jeon",
+    "poster_id": "B22",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Early Sensory Responses Track High-Level Visual Surprise",
+    "presenter": "David Richter",
+    "poster_id": "B23",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Sophistication of Human Adaptive Probability Learning in Dynamic Environments",
+    "presenter": "Florent Meyniel",
+    "poster_id": "B24",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Experiential Semantic Information and Brain Alignment: Are Multimodal Models Better than Language Models?",
+    "presenter": "Anna Bavaresco",
+    "poster_id": "B25",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Compositional Meaning in Vision-Language Models and the Brain",
+    "presenter": "Maithe van Noort",
+    "poster_id": "B26",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "A ‘sweet spot’ for creative ideation: Non-linear associations between semantic distance and creativity",
+    "presenter": "William Orwig",
+    "poster_id": "B27",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Dynamic Norm-Based Coding of Vocal Identity by the Primate Voice Patches Neurons",
+    "presenter": "Yoan Esposito",
+    "poster_id": "B28",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Persistent and evolving encoding of phonemes reflects general auditory processing",
+    "presenter": "Oli Danyi Liu",
+    "poster_id": "B29",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Sensorimotor Integration in the Dorsal Speech Processing Stream via Directed Beta-Band Interactions",
+    "presenter": "Olivia Bizimungu",
+    "poster_id": "B30",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Intracranial EEG reveals multiplexed encoding of auditory, speech, and language embeddings in the human temporal lobe",
+    "presenter": "Atlas Kazemian",
+    "poster_id": "B31",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Modelling Multimodal Integration in Human Concept Processing with Vision-Language Models",
+    "presenter": "Raquel Fernández",
+    "poster_id": "B32",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Working Memory Integrates Geometrical and Temporal Languages of Thought",
+    "presenter": "Elyes Tabbane",
+    "poster_id": "B33",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Understanding the Neuro-Cognitive Mechanisms of Orthographic Learning in Humans and Baboons: A Comparative Study Using Domain-Specific Mechanistic and Domain-General Connectionist Models",
+    "presenter": "Janos Pauli",
+    "poster_id": "B34",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Spatiotemporal tracking of phonetic content and probability in the human brain during continuous speech understanding",
+    "presenter": "William Turner",
+    "poster_id": "B35",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural Mechanisms of Linguistic Working Memory: Phrase Composition, Storage and Retrieval",
+    "presenter": "Théo Desbordes",
+    "poster_id": "B36",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "A Model of Continuous Speech Recognition Reveals the Role of Context in Human Phoneme Perception",
+    "presenter": "Gasser Elbanna",
+    "poster_id": "B37",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Toward Affective Empathy in AI: Encoding Internal Representations of  \"Artificial Pain\"",
+    "presenter": "Angeline Wang",
+    "poster_id": "B38",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural Dynamics and Representational Content across Abstract and Concrete Concepts",
+    "presenter": "Mancano Martina",
+    "poster_id": "B39",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Detecting Mild Cognitive Impairment Across Languages: An Analysis of Speech Features in Chinese and English",
+    "presenter": "Lee Hung Wei",
+    "poster_id": "B40",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Concerns in evaluating hierarchical correlations between human brains and end-to-end automatic speech recognition models",
+    "presenter": "Yi Wang",
+    "poster_id": "B41",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "From sequences to schemas: How recurrent neural networks learn temporal abstractions",
+    "presenter": "Vezha Boboeva",
+    "poster_id": "B42",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural Substrates of a Symbolic Action Grammar in Primate Frontal Cortex",
+    "presenter": "Lucas Y. Tian",
+    "poster_id": "B43",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural Encoding of Continuous Word Meaning Likelihood During Semantic Disambiguation",
+    "presenter": "Andrey Zyryanov",
+    "poster_id": "B44",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Speaker-Specific Semantic Priors Enhance Both Expected and Unexpected Speech Across Processing Levels",
+    "presenter": "Fabian Schneider",
+    "poster_id": "B45",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Decomposition of uncertainty into dispersion and strength during speech processing",
+    "presenter": "Pierre Guilleminot",
+    "poster_id": "B46",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Understanding Human Limits in Pattern Recognition: A Computational Model of Sequential Reasoning in Rock, Paper, Scissors",
+    "presenter": "Daniel Yamins",
+    "poster_id": "B47",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Disentangling belief and strategy in natural visual search",
+    "presenter": "Hyunwoo Gu",
+    "poster_id": "B48",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Humans and variational autoencoders agree: attractive faces are average and feminine, not symmetric and young",
+    "presenter": "Francisco M. Lopez",
+    "poster_id": "B49",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Selective Is Selective, or Not? Investigating Consistency and Task Relevance of Selectivity Metrics in DNNs",
+    "presenter": "Anastasia Lado",
+    "poster_id": "B50",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Attention modulates within-category differentiation of natural auditory objects in human auditory cortex",
+    "presenter": "Patrik Wikman",
+    "poster_id": "B51",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Explaining neural mechanisms of age-related dedifferentation in the ventral stream through deep neural networks",
+    "presenter": "Akilles Rechardt",
+    "poster_id": "B52",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "NeuroAdapter: Visual Reconstruction with Masked Brain Representation",
+    "presenter": "Hossein Adeli",
+    "poster_id": "B53",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Attention alters numerosity tuning in the human brain",
+    "presenter": "Liangyou Zhang",
+    "poster_id": "B54",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Attention Modulates the Geometry of Auditory Representations",
+    "presenter": "Caterina A. Pedersini",
+    "poster_id": "B55",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "pRF Amplitude Differs within the Ventral Visual Processing Stream in Autism",
+    "presenter": "Charlotte A. Leferink",
+    "poster_id": "B56",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Representational dynamics of visual contents underlying object selectivity",
+    "presenter": "Chun-Hui Li",
+    "poster_id": "B57",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Interpretable prediction of human fixations from behavior-derived representational dimensions",
+    "presenter": "Luca Kämmer",
+    "poster_id": "B58",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Conceptual priorities shape individual gaze patterns during naturalistic visual attention",
+    "presenter": "Caroline E. Robertson",
+    "poster_id": "B59",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "From Pixels to Human Typicality Judgments: Disentangling Category Structure and Neural Network Representations",
+    "presenter": "Itay Inbar",
+    "poster_id": "B60",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Knowledge differences affect gaze behavior during naturalistic object exploration",
+    "presenter": "Amanda J. Haskins",
+    "poster_id": "B61",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "How attention shapes simplified mental representations for planning",
+    "presenter": "Jason da Silva Castanheira",
+    "poster_id": "B62",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Nothing Intrinsically Memorable: The Relational Nature of Animacy Effects in Visual Memory",
+    "presenter": "Dyllan Simpson",
+    "poster_id": "B63",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Exploring the Neural Representation of Elementary Math Concepts",
+    "presenter": "Samuel Debray",
+    "poster_id": "B64",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Discovering visual categorical selectivity across the whole brain in silico using transformer-based encoders and large-scale generative models",
+    "presenter": "Ethan Hwang",
+    "poster_id": "B65",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Covert attention is flexibly allocated in value-guided choice",
+    "presenter": "Amy X. Li",
+    "poster_id": "B66",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Cross-Context Value Dynamics: The Impact of Contextually Irrelevant Values on Choice Behavior",
+    "presenter": "Neele K. Elbersgerd",
+    "poster_id": "B67",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Value GradientRescales Grid-like Representations during Reward Learning",
+    "presenter": "Hai-Tao Wu",
+    "poster_id": "B68",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Towards generative AI-based fMRI paradigms: reinforcement learning via real-time brain feedback",
+    "presenter": "Giuseppe Gallitto",
+    "poster_id": "B69",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Social Scene Perception in neurotypicals, bvFTD and AI models",
+    "presenter": "Laura Iris Van Hove",
+    "poster_id": "B70",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "A Reinforcement Learning Model for Task-modulated Perception",
+    "presenter": "Shervin Safavi",
+    "poster_id": "B71",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Testing an Integrative Framework for the Sense of Control",
+    "presenter": "Alireza Modirshanechi",
+    "poster_id": "B72",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Memory of Navigation in Individuals with Varying Social Anxiety: A Virtual Reality EEG Study",
+    "presenter": "Haiyan Wu",
+    "poster_id": "B73",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Relational Information Predicts Human Behavior and Neural Responses to Complex Social Scenes",
+    "presenter": "Wenshuo Qin",
+    "poster_id": "B74",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Why is GABA related to neural distinctiveness? A computational account of age-related neural dedifferentiation",
+    "presenter": "Quan Zhou",
+    "poster_id": "B75",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural Mechanisms Underlying the Impact of Pavlovian Observational Learning on Decision Making",
+    "presenter": "Pyungwon Kang",
+    "poster_id": "B76",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Other’s Pain Drives Optimal Decisions",
+    "presenter": "Judit Campdepadrós Barrios",
+    "poster_id": "B77",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "rewardGym - a framework for streamlining experiments in cognitive neuroscience",
+    "presenter": "Simon R Steinkamp",
+    "poster_id": "B78",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Social responsiveness buffers internalizing symptoms from social isolation",
+    "presenter": "Shuhan Wang",
+    "poster_id": "B79",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Modelling homeostatic influences on human risky choice",
+    "presenter": "Steven Geysen",
+    "poster_id": "B80",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Mechanisms of Coordination for Cooperative and Competitive Interactions",
+    "presenter": "Sepideh Khoneiveh",
+    "poster_id": "B81",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Preliminary evidence indicates that selective maintenance of adverse events may explain conditioning phenomena attributed to fear generalization",
+    "presenter": "Deepta Chandrasekhar",
+    "poster_id": "B82",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Demographic Prompting Fails to Bridge the Individual Variability Gap: GPT-4o Aligns with Average but Not Individual Emotional Ratings of Images",
+    "presenter": "Chace Ashcraft",
+    "poster_id": "B83",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Computational mechanisms underlying how humans adapt their choices to the average effort of the environment",
+    "presenter": "Emma V. Scholey",
+    "poster_id": "B84",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Construction and disruption of hippocampal cognitive graphs in human and machine",
+    "presenter": "Deng Pan",
+    "poster_id": "B85",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Excitatory-Inhibitory Dynamics in Adaptive Decision-Making",
+    "presenter": "Veronica Chelu",
+    "poster_id": "B86",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Inferring Cognitive Load from Deviations in Simulated Human Planning Behavior",
+    "presenter": "May Kristine Jonson Carlon",
+    "poster_id": "B87",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "The Role of Neural Replay in Structure Learning and Value Generalization",
+    "presenter": "Fabian Renz",
+    "poster_id": "B88",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Experimental Assessment of Choice-Congruent Confidence Bias in Human Reinforcement Learning",
+    "presenter": "Alexandre Lietard",
+    "poster_id": "B89",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Optimal Foraging by Learning the World Model",
+    "presenter": "Roxana Zeraati",
+    "poster_id": "B90",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "How to reliably estimate collapsing-threshold diffusion model parameters?  A simulation study",
+    "presenter": "Amir Hosein Hadian Rasanan",
+    "poster_id": "B91",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Trial-by-trial Fluctuations in Decision Criterion Shape Decision Confidence",
+    "presenter": "Robin Vloeberghs",
+    "poster_id": "B92",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural dynamics of predicting others’ decisions",
+    "presenter": "Erik Stuchlý",
+    "poster_id": "B93",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural Mechanisms of Adolescent Social Decision-Making: Insights from Computational Modeling",
+    "presenter": "Jiamiao Yang",
+    "poster_id": "B94",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Information search strategies in within-domain vs. across-domain decisions",
+    "presenter": "Maryam Tohidi-Moghaddam",
+    "poster_id": "B95",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Biased Misinformation Distorts Beliefs",
+    "presenter": "Rani Moran",
+    "poster_id": "B96",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "MoralNet: Visual representations of moral intuitions in artificial and biological neural networks",
+    "presenter": "Tim Lauer",
+    "poster_id": "B97",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neurocomputational Underpinnings of Suboptimal Beliefs in Reinforcement Learning Agents",
+    "presenter": "M Ganesh Kumar",
+    "poster_id": "B98",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Modeling Dynamical Vision: A Toolbox for Biologically Plausible Recurrent Convolutional Networks",
+    "presenter": "Robin Gutzen",
+    "poster_id": "B104",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Do Dynamics Matter for Neural Alignment? A Comparative study of Video and Static Vision Models",
+    "presenter": "Khaled Jedoui Al-Karkari",
+    "poster_id": "B105",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Unsupervised Future-Predictive Learning in the Connectome-Constrained Drosophila Optical Lobe",
+    "presenter": "Naoya Nishiura",
+    "poster_id": "B106",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Examining the precision of infants’ visual concepts by leveraging vision-language models and automated gaze coding",
+    "presenter": "Tarun Sepuri",
+    "poster_id": "B107",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Iterative Bayesian inference explains the dynamics of perceptual organization of natural scenes",
+    "presenter": "Tridib Kalyan Biswas",
+    "poster_id": "B108",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Empirical test of ideal observer models of individual and ensemble spatial perception",
+    "presenter": "Dominik Endres",
+    "poster_id": "B109",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Learning visual cognition from children's visual experiences",
+    "presenter": "Klemen Kotar",
+    "poster_id": "B110",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Perceptogram: Interpreting Visual Percepts from EEG",
+    "presenter": "Virginia R. de Sa",
+    "poster_id": "B111",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural Dimensionality and Temporal Dynamics of Visual Representations",
+    "presenter": "Zirui Chen",
+    "poster_id": "B112",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Integrating Non-Classical Receptive Fields of the Primary Visual Cortex into CNNs Enhances Adversarial Robustness",
+    "presenter": "Yalda Mohsenzadeh",
+    "poster_id": "B113",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Video DNNs do not see motion illusions",
+    "presenter": "Marvin Rainer Maechler",
+    "poster_id": "B114",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Viewpoint Diversity Improves Convolutional Neural Network Generalization and Robustness",
+    "presenter": "Yifan Luo",
+    "poster_id": "B115",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Contrast Sensitivity Function of Multimodal Vision-Language Models",
+    "presenter": "Alexandra Gomez-Villa",
+    "poster_id": "B116",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Exploring the Cognitive Space: A Framework for Cognitive Function Mapping",
+    "presenter": "Ana Fernanda Ponce",
+    "poster_id": "B117",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Response to Affine Transforms of Image Distance Metrics and Humans",
+    "presenter": "Paula Daudén-Oliver",
+    "poster_id": "B118",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Controlled Synthetic Environments for Studying Mid-Level Vision in Artificial and Biological Systems",
+    "presenter": "Joshua M. Martin",
+    "poster_id": "B119",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Temporal Processing of Spatial Frequencies in Visual Word, Object, and Place Recognition",
+    "presenter": "Clémence Bertrand Pilon",
+    "poster_id": "B120",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Would the same inferences about visual memory have been made with LFPs as compared to spikes?",
+    "presenter": "Catrina M. Hacker",
+    "poster_id": "B121",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Arrow of Time: an intensive fMRI dataset of brain responses to brief video presentations",
+    "presenter": "Tomas Knapen",
+    "poster_id": "B122",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "The role of motion cues in object representation: A study of visual area specializations using deep learning",
+    "presenter": "Nastaran Darjani",
+    "poster_id": "B123",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Training on Ecologically Relevant Tasks Improves Alignment Between Artificial Neural Network and Human Similarity Judgments",
+    "presenter": "Aidan J. Seidle",
+    "poster_id": "B124",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Evolution of Low-Level and Texture Human-CLIP Alignment",
+    "presenter": "Pablo Hernández-Cámara",
+    "poster_id": "B125",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Do Vision Transformers See Like Humans? Evaluating their Perceptual Alignment",
+    "presenter": "Jose Manuel Jaén-Lorites",
+    "poster_id": "B126",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Disentangling redundant and synergistic interactions in the alignment between auditory brains and machines",
+    "presenter": "Christian Ferreyra",
+    "poster_id": "B127",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Recurrent processing strengthens feature representations throughout visual cortex",
+    "presenter": "Floris P De Lange",
+    "poster_id": "B128",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "The BabyView dataset: High-resolution egocentric videos of infants’ and young children’s everyday experiences",
+    "presenter": "Bria Lorelle Long",
+    "poster_id": "B129",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural networks and brains share the gist but not the details",
+    "presenter": "Michael Bonner",
+    "poster_id": "B130",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Deep predictive coding networks partly capture neural signatures of short-term temporal adaptation in human visual cortex",
+    "presenter": "Amber Marijn Brands",
+    "poster_id": "B131",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Efficient spatial learning in the hippocampus via left-right theta sweeps in the entorhinal cortex",
+    "presenter": "Callum Marshall",
+    "poster_id": "B132",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Putamen Representation of Habit as Predictive Marker of Compulsivity",
+    "presenter": "Amogh Johri",
+    "poster_id": "B133",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Human predictions of event sequences for novel videos",
+    "presenter": "Caroline Lee",
+    "poster_id": "B134",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neuromodulatory systems partially account for the topography of cortical networks of learning under uncertainty",
+    "presenter": "Alice Hodapp",
+    "poster_id": "B135",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural and computational evidence for a predictive learning account of the testing effect",
+    "presenter": "Haopeng Chen",
+    "poster_id": "B136",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Hexadirectional modulation of grid cell firing by firing rate adaptation",
+    "presenter": "Guglielmo Reggio",
+    "poster_id": "B137",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Evaluating view-invariant place recognition in humans and machines",
+    "presenter": "Nathan Kong",
+    "poster_id": "B138",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Replay of factorized temporal journey",
+    "presenter": "Xuanlong Zhu",
+    "poster_id": "B139",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Olfactory Neurotechnology: A Perspective on Awareness Biomarker Discovery for Mild Cognitive Impairment and Dementia",
+    "presenter": "Hubert Kasprzak",
+    "poster_id": "B140",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Decoding Signatures of Meta-Learning Abstract Structure",
+    "presenter": "Sreejan Kumar",
+    "poster_id": "B141",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Visual and Goal Vector Signals Interact to Shape Behavior and Spatial Representations",
+    "presenter": "Sandhiya Vijayabaskaran",
+    "poster_id": "B142",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Multi-task Learning in the Human Brain",
+    "presenter": "Tobias Ludwig",
+    "poster_id": "B143",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Humans and Mice Navigate Mazes Alike. Can AI Beat Them?",
+    "presenter": "Rogério Guimarães",
+    "poster_id": "B144",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Rat on a sphere: Exploring alternate grid cell representations on a hemisphere",
+    "presenter": "Muhammad Sahal Goolam",
+    "poster_id": "B145",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "A Biologically Plausible Computational Model of Hippocampal Neurogenesis and Pattern Separation in Memory",
+    "presenter": "Jiachuan Wang",
+    "poster_id": "B146",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Dynamic Changes in Neural Manifolds During Working Memory",
+    "presenter": "Aniol Santo-Angles",
+    "poster_id": "B147",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Distributed Working Memory in a Computational Model of the Human Brain",
+    "presenter": "Rares A. Dorcioman",
+    "poster_id": "B148",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural subspaces for motor planning and execution in Parietal Cortex",
+    "presenter": "Stefano Diomedi",
+    "poster_id": "B149",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Modelling the Effect of Audience Tuning on Generative Episodic Memory",
+    "presenter": "Aya Altamimi",
+    "poster_id": "B150",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Non-Monotonic Plasticity in Large Language Models",
+    "presenter": "Camila Kolling",
+    "poster_id": "B151",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Classification of Mental Workload Spatial Effects using Riemannian Manifold",
+    "presenter": "Agathe CHOPLIN",
+    "poster_id": "B152",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Neural heterogeneity shapes the temporal structure of human working memory",
+    "presenter": "Daria Kussovska",
+    "poster_id": "B153",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Resolving the tension between exemplar and structure learning through a mixture-of-experts model of hippocampal-PFC interactions",
+    "presenter": "Dhairyya Singh",
+    "poster_id": "B154",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Reverse Spatiotemporal Hierarchy during Cross-modal Memory Recall and Imagery",
+    "presenter": "Yu Hu",
+    "poster_id": "B155",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Dynamics in the primary sensory, medial temporal and striatal regions during implicit learning of temporal regularity",
+    "presenter": "Wei Tang",
+    "poster_id": "B156",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Exploring the Neural and Phenomenological Landscapes of Self-Incongruent Autobiographical Memories",
+    "presenter": "Alicja Wicher",
+    "poster_id": "B157",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Biophysical Deep Learning: Laminar-resolved Cortical Columns as Neural Network Units",
+    "presenter": "Dasja de Leeuw",
+    "poster_id": "B158",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Human brain networks encode creativity state and level",
+    "presenter": "Rikki Rabinovich",
+    "poster_id": "B159",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Systematic differences between brain organisation revealed by task and rest",
+    "presenter": "Caroline Nettekoven",
+    "poster_id": "B160",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Improving Prediction of Cognitive Abilities through Integrated Resting-State and Task fMRI",
+    "presenter": "Yujing Jiang",
+    "poster_id": "B161",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Long delays reduce the need for precise weights in spiking neural networks",
+    "presenter": "Danyal Akarca",
+    "poster_id": "B162",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "High-level information integration in the brain via large-scale attractor dynamics",
+    "presenter": "Tamas Spisak",
+    "poster_id": "B163",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "The Causal Structure of Band-limited Dynamics in the Human Cortex",
+    "presenter": "Paul Hege",
+    "poster_id": "B164",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Balanced Gamma Oscillations Support Ultra-Slow Dynamics in the Cortex at Rest",
+    "presenter": "Francisco Páscoa dos Santos",
+    "poster_id": "B165",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Toward Generating Plausible Artificial Electroencephalography Data: Evaluating the Effects of Convolution-based Upsampling Methods on Data Quality",
+    "presenter": "Clemens Kaiser",
+    "poster_id": "B166",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Tracking time by simulating the sensory world",
+    "presenter": "Aaron Kaltenmaier",
+    "poster_id": "B167",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Peripheral Beta-Blockade Differentially Enhances Cardiac and Respiratory Interoception",
+    "presenter": "Ashley Tyrer",
+    "poster_id": "B168",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Cortically-Embedded RNNs for integration of cortex-wide neuroscience data into recurrent neural network models",
+    "presenter": "Aswathi Thrivikraman",
+    "poster_id": "B169",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Connectivity Effects of cTBS to the DLPFC:  Examining beta phase synchronisation between the left and right DLPFC",
+    "presenter": "Veronica Forslund",
+    "poster_id": "B170",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Can We Identify the What, When and Where of Sensorimotor Activity in EEG Recordings?",
+    "presenter": "Marije ter Wal",
+    "poster_id": "B171",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Temporal Prediction in Non-Deterministic Continuous Environments: Investigating the Role of Oscillatory Entrainment and Interval Learning",
+    "presenter": "Elmira Hosseini",
+    "poster_id": "B172",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Learning neuronal manifolds for interacting neuronal populations",
+    "presenter": "Akshey Kumar",
+    "poster_id": "B173",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "TeDFA-$\\delta$: Temporal integration in deep spiking networks trained with feedback alignment improves policy learning",
+    "presenter": "Jorin Overwiening",
+    "poster_id": "B174",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Artificial Neural Networks trained on human cognitive data as network models of cognition in health and mental disorders",
+    "presenter": "Oliver Frank",
+    "poster_id": "B175",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Not all solutions are created equal: An analytical dissociation of functional and representational similarity in deep linear neural networks",
+    "presenter": "Erin Grant",
+    "poster_id": "B176",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Fast fMRI signals up to 1Hz vary across brain states  and predict spontaneous neural activity",
+    "presenter": "Leandro P. L. Jacob",
+    "poster_id": "B177",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Error Forcing in Recurrent Neural Networks",
+    "presenter": "A Erdem Sağtekin",
+    "poster_id": "B178",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Mouse-tracking Reveals Individual Differences in the Dynamics of Belief Updating Under Volatility",
+    "presenter": "Aurora Katharina Delz",
+    "poster_id": "B179",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Inferring Virtual Height-Induced Changes in Postural Control via Inverse Optimal Control",
+    "presenter": "Tahmineh A. Koosha",
+    "poster_id": "B180",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Similarity-based Representation Factorization for Understanding Representations in Minds, Brains and Machines",
+    "presenter": "Florian P. Mahner",
+    "poster_id": "B181",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "How to test Bayesian models using neural data",
+    "presenter": "Ralf M Haefner",
+    "poster_id": "B182",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Catalyzing in silico neuroscience with a toolkit of accurate encoding models of the brain",
+    "presenter": "Domenic Bersch",
+    "poster_id": "B183",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "An Equivalence Between Representational Similarity Analysis and Centered Kernel Alignment",
+    "presenter": "Alex H Williams",
+    "poster_id": "B184",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "A BOLD Sampling Scheme to Improve the Estimation of Voxel-wise Encoding Model Parameters",
+    "presenter": "Jochem W. Rieger",
+    "poster_id": "B185",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Quantifying Psychedelic Visual Phenomena: An AI-Driven Computational Framework for Analyzing Form Constants and Representational Competencies",
+    "presenter": "Cynthia-Maria Kanaan",
+    "poster_id": "B186",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Toward Real-World Emotion Decoding: A Transformer-Based Approach Using Movie fMRI",
+    "presenter": "Bo-Gyeom Kim",
+    "poster_id": "B187",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Predicting Stroke Recovery with Nonlinear Low-Dimensional Embeddings of Behavioral Profiles",
+    "presenter": "Jax Skye",
+    "poster_id": "B188",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Multiencoder VAE for cross-subject alignment of brain responses",
+    "presenter": "Angeliki Papathanasiou",
+    "poster_id": "B189",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Information Transfer in the Brain Is Synergistic",
+    "presenter": "Sebastian Dohnány",
+    "poster_id": "B190",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Functional Templates in fMRI: Building Accurate and Interpretable Group-Level Decoders",
+    "presenter": "Pierre-Louis Barbarant",
+    "poster_id": "B191",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Revisiting Cost Functions in Sensorimotor Decision-Making",
+    "presenter": "Tobias F. Niehues",
+    "poster_id": "C1",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Predictive Perception via Simultaneous Learning and Inference",
+    "presenter": "Mahdi Enan",
+    "poster_id": "C2",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Bistable perception emerges from loopy inference in strongly coupled probabilistic graphs",
+    "presenter": "Alexandre Garcia-Duran",
+    "poster_id": "C3",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "How the Brain Automatically Encodes Global Predictability: Temporal Generalization Evidence for Stable Representations",
+    "presenter": "Yun-Yi Qi",
+    "poster_id": "C4",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Probabilistic representations fail to emerge in task-optimized neural networks",
+    "presenter": "Ishan Kalburge",
+    "poster_id": "C5",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Sensorimotor Affordances in a Global Latent Workspace",
+    "presenter": "Nicolas Kuske",
+    "poster_id": "C6",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Dynamics and Structure of Generalization During Reinforcement Learning in Human Brains and Artificial Networks",
+    "presenter": "Shany Grossman",
+    "poster_id": "C7",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Decoding Movement from Neural Spike Trains: A Comparison of Linear and Nonlinear Models across Brain Regions and Temporal Delays",
+    "presenter": "Minsung Cho",
+    "poster_id": "C8",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Proprioceptive Position Inference as Velocity Integration",
+    "presenter": "Erik Skjoldan Mortensen",
+    "poster_id": "C9",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Controlling PFC dynamics for slow and fast learning",
+    "presenter": "Michał J Wójcik",
+    "poster_id": "C10",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Metacognition as modal cognition",
+    "presenter": "Kevin O'Neill",
+    "poster_id": "C11",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Long Range Cortical Interactions During Comparison of Sensory and Cognitive Information",
+    "presenter": "Camila Losada",
+    "poster_id": "C12",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Dissociating Confidence Bias and Confidence Noise in Perceptual and Knowledge-Based Decisions",
+    "presenter": "Matteo Lisi",
+    "poster_id": "C13",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Computational Models of Dual System Reasoning",
+    "presenter": "Zoe Purcell",
+    "poster_id": "C14",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Combining Recurrent and Bayesian Models for Action Anticipation with Multiple Cues",
+    "presenter": "Mariia Zimokha",
+    "poster_id": "C15",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Predicting Response Inhibition: A Deep Learning Approach Using Pre-Response Single-Trial EEG Data",
+    "presenter": "Anna Grabowska",
+    "poster_id": "C16",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "The neural basis of abstraction representations in humans and non-human primates",
+    "presenter": "Théo Morfoisse",
+    "poster_id": "C17",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Probability Distortions Reflect Boundary Repulsions  in Noisy Inference",
+    "presenter": "Saurabh Bedi",
+    "poster_id": "C18",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Pupil-linked arousal tracks belief updating in a dynamic auditory enviroment",
+    "presenter": "Lars Kopel",
+    "poster_id": "C19",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Hierarchical systems in the default mode network when reasoning about self and other mental states",
+    "presenter": "Isaac Ray Christian",
+    "poster_id": "C20",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Confidence in absence as confidence in counterfactual visibility",
+    "presenter": "Matan Mazor",
+    "poster_id": "C21",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Metacognitive Judgements of Confidence in Effortful Task Are Susceptible to Momentary Fluctuations of Fatigue",
+    "presenter": "Katarzyna Dudzikowska",
+    "poster_id": "C22",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Bayesian Comparisons Between Representations",
+    "presenter": "Heiko H. Schütt",
+    "poster_id": "C23",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Proactive Counterfactual Inference in Flexible Decision Making",
+    "presenter": "Peiyue Liu",
+    "poster_id": "C24",
+    "topic_area": "Predictive Processing and Cognitive Control",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Large Language Models are Highly Aligned with Human Ratings of Emotional Stimuli",
+    "presenter": "Mattson Ogg",
+    "poster_id": "C25",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Large Language Models Are Good In-Context Function Learners",
+    "presenter": "Elif Akata",
+    "poster_id": "C26",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Sparse Encoding of Grammatical Gender in LSTM Language Models",
+    "presenter": "Conor Houghton",
+    "poster_id": "C27",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Tracking Time-Varying Syntax in Birdsong with a Sequential Autoencoder",
+    "presenter": "Nadav Elami",
+    "poster_id": "C28",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Integration of internal linguistic information with sensory input via weakly entrained oscillations",
+    "presenter": "Rong Ding",
+    "poster_id": "C29",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Step-by-step analogical reasoning in humans and neural networks",
+    "presenter": "Joonhwa Kim",
+    "poster_id": "C30",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Disentangling of Spoken Words and Talker Identity in Human Auditory Cortex",
+    "presenter": "Akhil Bandreddi",
+    "poster_id": "C31",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Moderate evidence for large language models reflecting human neurocognition during abstract reasoning",
+    "presenter": "Christopher Pinier",
+    "poster_id": "C32",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Neural encoding of lexical stress in human speech cortex",
+    "presenter": "Ilina Bhaya-Grossman",
+    "poster_id": "C33",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "The role of context in neural representational alignment to audio- and text-based language systems",
+    "presenter": "Marianne De Heer Kloots",
+    "poster_id": "C34",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Encoding Brain Regions with Sentiment-Relevant Circuits in LLMs",
+    "presenter": "Nursulu Sagimbayeva",
+    "poster_id": "C35",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Resolving Communicative Uncertainty through Computational Inference of Partner Intentions",
+    "presenter": "Tengfei Zhang",
+    "poster_id": "C36",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Inducing bias from bilingual brains into language models",
+    "presenter": "Anuja Negi",
+    "poster_id": "C37",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Rate-Coding Bundle Memory: A Unified Model of Memory and Control for Language Comprehension",
+    "presenter": "Teun van Gils",
+    "poster_id": "C38",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Modelling Demonstrates Phase-Reset is an Important Feature of Neural Speech Processing",
+    "presenter": "Andrew Shannon",
+    "poster_id": "C39",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "On whether the relationship between large language models and brain activity is language-specific",
+    "presenter": "Sertug Gürel",
+    "poster_id": "C40",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Causal Discovery and Inference through Next-Token Prediction",
+    "presenter": "Eivinas Butkus",
+    "poster_id": "C41",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Computational models of vision do not explain the effect of expertise on neural processing of visual Braille",
+    "presenter": "Filippo Cerpelloni",
+    "poster_id": "C42",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Dissociable Neural Signatures for Surprisal and Entropy Reduction in Mandarin Speech Comprehension",
+    "presenter": "Qifei Wang",
+    "poster_id": "C43",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Spectral Encoding Profile for multilevel linguistic predictions",
+    "presenter": "Clément Sauvage",
+    "poster_id": "C44",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Voxel-wise Encoding of Visual and Social Meaning During Silent Movie Viewing in Deaf and Hearing Participants.",
+    "presenter": "Maria Zimmermann",
+    "poster_id": "C45",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A Two-Dimensional Space of Linguistic Representations Shared Across Individuals",
+    "presenter": "Greta Tuckute",
+    "poster_id": "C46",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A Neural Model for Word Repetition",
+    "presenter": "Daniel Dager",
+    "poster_id": "C47",
+    "topic_area": "Language and Communication",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Neural Signatures of Tree Search",
+    "presenter": "Nastaran Arfaei",
+    "poster_id": "C48",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Probing compositional learning during spontaneous exploration of a reconfigurable 3D environment",
+    "presenter": "Tzuhsuan Ma",
+    "poster_id": "C49",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Neural generalization principles of working memory in humans and recurrent neural networks",
+    "presenter": "Qing Yu",
+    "poster_id": "C50",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "From Sound to Source: Human and Model Recognition in Auditory Scenes",
+    "presenter": "Sagarika Alavilli",
+    "poster_id": "C51",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Spatial Navigation Engages a Distributed Neural Representation",
+    "presenter": "Enny H. van Beest",
+    "poster_id": "C52",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "The Role of Landmarks and Travel Pauses in the Generation of Hexadirectional fMRI Signals during Spatial Navigation",
+    "presenter": "Siyuan Mei",
+    "poster_id": "C53",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Stage-like Emergence of Task Strategies in Animals and in Neural Networks Trained by Gradient Descent",
+    "presenter": "J Tyler Boyd-Meredith",
+    "poster_id": "C54",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Sensitivity to network structures via associate learning in sleeping neonates",
+    "presenter": "Claire Njoo-Deplante",
+    "poster_id": "C55",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Lower-Dimensional, Optimized Representations of High-Level Information in Chess Experts",
+    "presenter": "Andrea I Costantino",
+    "poster_id": "C56",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A semantic bias for accurate predictive learning in multidimensional environments",
+    "presenter": "Euan Prentis",
+    "poster_id": "C57",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Human-in-the-loop synthesis of behaviorally salient “super-distractors”",
+    "presenter": "Devarajan Sridharan",
+    "poster_id": "C58",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Evidence of fear conditioning in virtual reality revealed by eye movements",
+    "presenter": "Catherine Kim",
+    "poster_id": "C59",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A Unified Benchmark for Human-Like Memory in Artificial Agents",
+    "presenter": "Lucas Gruaz",
+    "poster_id": "C60",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development",
+    "presenter": "Noam Goldway",
+    "poster_id": "C61",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Representational dynamics of concurrent visuospatial working memories in Schizophrenia",
+    "presenter": "Ines Pont Sanchis",
+    "poster_id": "C62",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Statistical Knowledge Transfer Across Stimulus-Response Associations",
+    "presenter": "Cintia Anna Nagy",
+    "poster_id": "C63",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Trait depression predicts negatively biased encoding and retrieval of ambivalent movie: interoceptive and lexical analysis",
+    "presenter": "Jinwoo Lee",
+    "poster_id": "C64",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Behavioral timescale synaptic plasticity, replay, and emergent behavioral choice",
+    "presenter": "Suhee Cho",
+    "poster_id": "C65",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "How your brain learns penguins are birds - neural patterns of exception learning",
+    "presenter": "Rebekka Heinen",
+    "poster_id": "C66",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Dynamic Multi-level Learning in a Control-Learning Environment",
+    "presenter": "Junwu Chen",
+    "poster_id": "C67",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "What does spatial tuning tell us about the neural computation in the hippocampus?",
+    "presenter": "Maxime Daigle",
+    "poster_id": "C68",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Task-Relevant Information is Distributed Across the Cortex, but the Past is State-Dependent and Restricted to Frontal Regions",
+    "presenter": "Lubna Shaheen Abdul",
+    "poster_id": "C69",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Collaborative Encoding of Visual Working Memory",
+    "presenter": "Huang Ham",
+    "poster_id": "C70",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Good and consequential counterfactual outcomes are prioritized during learning",
+    "presenter": "Kate Nussenbaum",
+    "poster_id": "C71",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Experience supports performance by abstraction learning in recurrent networks",
+    "presenter": "John C Bowler",
+    "poster_id": "C72",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Computational Model for Episodic Timeline Based on a Spectrum of Synaptic Decay Rates",
+    "presenter": "Zoran Tiganj",
+    "poster_id": "C73",
+    "topic_area": "Memory, Spatial Cognition and Skill Learning",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Novelty-seeking Guides Formation of Disentangled Representations",
+    "presenter": "Pingsheng Li",
+    "poster_id": "C74",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Interplay of social and self interests during learning in early adolescence",
+    "presenter": "Cong Wang",
+    "poster_id": "C75",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A closed-loop model for the coordination of gaze control and decision-making",
+    "presenter": "Tianming Yang",
+    "poster_id": "C76",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Uncovering the Structure of Trial-to-Trial Variability in Perceptual Decision-Making Using Disentangled Recurrent Neural Networks",
+    "presenter": "Anne Urai",
+    "poster_id": "C77",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Tracking of dynamic neural representations  during goal-directed action",
+    "presenter": "Jet Lageman",
+    "poster_id": "C78",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A cognitive map of a subjective value space",
+    "presenter": "Mark A Orloff",
+    "poster_id": "C79",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "An Excessive-Demand Measure Outperforms Other Demand Proxies in Explaining Lab Asset-Market Price Changes: Toward a Brain Biomarker of Excessive Demand",
+    "presenter": "John L. Haracz",
+    "poster_id": "C80",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Social context affects policy and counterfactual learning in a two-armed bandit task",
+    "presenter": "Amric Trudel",
+    "poster_id": "C81",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Affective features drive human representations of social touch expressions during naturalistic viewing",
+    "presenter": "Haemy Lee Masson",
+    "poster_id": "C82",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Attention in value-based choice: Active and passive uncertainty reduction mechanisms",
+    "presenter": "Ruby Schlayer-Westbrook",
+    "poster_id": "C83",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Context-dependent modulations of sensory adaptation and pupil-linked arousal as substrates of flexible decision-making",
+    "presenter": "Kara D. McGaughey",
+    "poster_id": "C84",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Frontostriatal dynamics modelling obsessions and compulsions",
+    "presenter": "Sebastien Naze",
+    "poster_id": "C85",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Exploring the Neural Basis of Stimulus-Driven Overconfidence",
+    "presenter": "Ema Zezelic",
+    "poster_id": "C86",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Drift Rate Reflects Value, Response Bias Reflects Habit: A DDM Analysis of the Reward Pairs Task",
+    "presenter": "Viktor Timokhov",
+    "poster_id": "C87",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Simultaneous modeling of behavior and dopamine with disentangled RNNs",
+    "presenter": "Siddhant Jain",
+    "poster_id": "C88",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Analogous neural representations underlying risky decision making in deep reinforcement learning agents and humans",
+    "presenter": "T. Alexander Price",
+    "poster_id": "C89",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Working Memory-Supported Reinforcement Learning Related to Mental Health Phenotypes in a Representative Sample",
+    "presenter": "Laura Ana Bustamante",
+    "poster_id": "C90",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Structural abstraction of emotion knowledge in hippocampal-prefrontal systems",
+    "presenter": "Yumeng Ma",
+    "poster_id": "C91",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Emergent Reciprocity Through Temporal Credit Assignment in Reinforcement Learning Agents",
+    "presenter": "Le Thuy Duong Nguyen",
+    "poster_id": "C92",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Neural Representation of Social Relationship Graphs through Multidimensional Modeling of Dynamic Social Interactions",
+    "presenter": "Dasom Kwon",
+    "poster_id": "C93",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A single general strategy supports flexible behavior in response to both gradual and sudden changes",
+    "presenter": "Jessica Passlack",
+    "poster_id": "C94",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Neural computations underlying human social evaluations from visual stimuli",
+    "presenter": "Manasi Malik",
+    "poster_id": "C95",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Reward-Prediction-Error-Guided Attention Explains Behavioral Learning Curves",
+    "presenter": "Mingze Li Leukos",
+    "poster_id": "C96",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A computational model of reward learning and habits on social media",
+    "presenter": "Georgia Turner",
+    "poster_id": "C97",
+    "topic_area": "Reward, Value and Social Decision Making",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Feedback signals can explain spike-silent working memory traces in visual cortex",
+    "presenter": "Noa N. Krause",
+    "poster_id": "C104",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Sample, Don't Assume: Unconstrained Receptive Field Estimation",
+    "presenter": "Niklas Müller",
+    "poster_id": "C105",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A multimodal encoding model for predicting human brain responses to complex naturalistic movies",
+    "presenter": "Viacheslav Fokin",
+    "poster_id": "C106",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "From Images to Perception: Emergence of Perceptual Properties by Reconstructing Images",
+    "presenter": "Jesus Malo",
+    "poster_id": "C107",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Differentiating image representations in terms of their local geometry",
+    "presenter": "David Lipshutz",
+    "poster_id": "C108",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Evaluating Human-Machine Representational Alignment in Hyperbolic Space",
+    "presenter": "Otto Béla Márton",
+    "poster_id": "C109",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Learning to cluster neuronal function",
+    "presenter": "Nina S. Nellen",
+    "poster_id": "C110",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Deep layers of primary visual cortex encode postdictive perception",
+    "presenter": "Pieter Barkema",
+    "poster_id": "C111",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Predictive remapping and allocentric coding as consequences of energy efficiency in recurrent neural network models of active vision",
+    "presenter": "Philip Sulewski",
+    "poster_id": "C112",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Inverse receptive field attention for naturalistic image reconstruction from the brain",
+    "presenter": "Marcel van Gerven",
+    "poster_id": "C113",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Foveated sensing in KNN-convolutional neural networks based on isotropic cortical magnification",
+    "presenter": "Nicholas Blauch",
+    "poster_id": "C114",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Which Neural Networks best model the human perception of geometric shapes?",
+    "presenter": "Maxence Pajot",
+    "poster_id": "C115",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Getting into Shape: The Impact of Early Visual Development on Object Recognition",
+    "presenter": "Zejin Lu",
+    "poster_id": "C116",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Target Detection as an Online Measure of Adapting to Changing Statistical Regularities",
+    "presenter": "Brent Vernaillen",
+    "poster_id": "C117",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "MIRAGE: Robust multi-modal architectures translate fMRI-to-image models from vision to mental imagery",
+    "presenter": "Reese Kneeland",
+    "poster_id": "C118",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "CorText-AMA: brain-language fusion as a new tool for probing visually evoked brain responses",
+    "presenter": "Victoria Bosch",
+    "poster_id": "C119",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "The geometry of primary visual cortex representations is dynamically adapted to task performance",
+    "presenter": "Leyla Roksan Caglar",
+    "poster_id": "C120",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Replicating Posner and Keele (1968) with Standard Convolutional Neural Networks",
+    "presenter": "Milan Van Maldegem",
+    "poster_id": "C121",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Hues and Cues: Human vs. CLIP",
+    "presenter": "Nuria Alabau-Bosque",
+    "poster_id": "C122",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Decoding Colour Information from EEG Signals in Natural Scenes",
+    "presenter": "Arash Akbarinia",
+    "poster_id": "C123",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Connectome-Constrained Unsupervised Learning Reveals Emergent Visual Representations in the Drosophila Optic Lobe",
+    "presenter": "Keisuke Toyoda",
+    "poster_id": "C124",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A hierarchy of spatial predictions across human visual cortex during natural vision",
+    "presenter": "Wieger H. Scheurer",
+    "poster_id": "C125",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Rethinking Representational Alignment: Linear Probing Fails to Identify the Ground-Truth Model",
+    "presenter": "Itamar Avitan",
+    "poster_id": "C126",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Examining the potential functional significance of initially poor temporal acuity",
+    "presenter": "Marin Vogelsang",
+    "poster_id": "C127",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A 7T fMRI dataset of synthetic images for out-of-distribution modeling of vision",
+    "presenter": "Alessandro Thomas Gifford",
+    "poster_id": "C128",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Developmental plasticity rules facilitate representation learning in a model of visual ventral stream",
+    "presenter": "Ariane Delrocq",
+    "poster_id": "C129",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Incorporating foveal sampling and integration to model 3D shape inferences",
+    "presenter": "Stephanie Fu",
+    "poster_id": "C130",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Models trained on infant views are more predictive of infant visual cortex",
+    "presenter": "Cliona O'Doherty",
+    "poster_id": "C131",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Investigation of Numerosity Representation in Convolution Neural Networks",
+    "presenter": "Nhut Truong",
+    "poster_id": "C132",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Model-brain comparison using inter-animal transforms",
+    "presenter": "Imran Thobani",
+    "poster_id": "C133",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "How to sample the world for understanding the visual system",
+    "presenter": "Johannes Roth",
+    "poster_id": "C134",
+    "topic_area": "Visual Processing and Computational Vision",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Memory diffusion: Using generative AI to create an image database  for memory research",
+    "presenter": "Fabian Kamp",
+    "poster_id": "C135",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A Multiple Trace Theory of Statistical Learning",
+    "presenter": "Dock H Duncan",
+    "poster_id": "C136",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Perceiving patterns under uncertainty:  the role of conspiratorial thinking",
+    "presenter": "Yi-Chuang Lin",
+    "poster_id": "C137",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Attention rules Episodic Memory",
+    "presenter": "Zahra Fayyaz",
+    "poster_id": "C138",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Multimodal Human Perception of Object Dimensions: Evidence from Deep Neural Networks And Large Language Models",
+    "presenter": "Florian Burger",
+    "poster_id": "C139",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Seen2Scene: a generative model of fixation-by-fixation scene understanding",
+    "presenter": "Ritik Raina",
+    "poster_id": "C140",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Auditory Object Formation in Temporally Complex Scenes",
+    "presenter": "Berfin Bastug",
+    "poster_id": "C141",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Representational drift across the macaque ventral stream does not affect all timepoints and stimuli alike: first evidence for a sequence of three different, yet comparatively stable clusters in V4.",
+    "presenter": "Daniel Anthes",
+    "poster_id": "C142",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Quantifying infants’ everyday experiences with objects in a large corpus of egocentric videos",
+    "presenter": "Jane Yang",
+    "poster_id": "C143",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Tracking covert attention over space and time using RIFT",
+    "presenter": "Kabir Arora",
+    "poster_id": "C144",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A Goal-driven Model of Visual Search in Natural Scenes Replicates Human Behavior While Relying on Similar Neural Representations",
+    "presenter": "Motahareh Pourrahimi",
+    "poster_id": "C145",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Leveraging Vision Transformers to Propose a Context-Dependent Computational Mechanism for the Holistic Process of Faces",
+    "presenter": "Srijani Saha",
+    "poster_id": "C146",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Brain-Aligned Category-Selective Features from Contrastive Learning",
+    "presenter": "Daniel Janini",
+    "poster_id": "C147",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Parametric control along the encoding axes of IT neurons uncovers hidden differences in model-brain alignment",
+    "presenter": "Jacob S. Prince",
+    "poster_id": "C148",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Competitive Retraining Reveals the Resilience and Reallocation of Functional Specialization in Deep Neural Networks",
+    "presenter": "Zhengqing Miao",
+    "poster_id": "C149",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Shared high-dimensional latent structure in the neural and mental representations of objects",
+    "presenter": "Raj Magesh Gauthaman",
+    "poster_id": "C150",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Quantifying the Role of Perceived Curvature in the Processing of  Natural Object Images",
+    "presenter": "Laura Mai Stoinski",
+    "poster_id": "C151",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Representational Geometry Dynamics in Networks After Long-Range Modulatory Feedback",
+    "presenter": "Kexin Cindy Luo",
+    "poster_id": "C152",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Encoding of Fixation-Specific Visual Information: No Evidence of Information Carry-Over between Fixations",
+    "presenter": "Carmen Amme",
+    "poster_id": "C153",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Robustness to 3D Object Transformations in Humans and Image-Based Deep Neural Networks",
+    "presenter": "Haider Al-Tahan",
+    "poster_id": "C154",
+    "topic_area": "Object Recognition and Visual Attention",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Small-Worlds Memory Generation and Capacity in the Neuroidal Model",
+    "presenter": "Mugizi Robert Rwebangira",
+    "poster_id": "C155",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Biologically informed cortical models predict optogenetic perturbations",
+    "presenter": "Guillaume Bellec",
+    "poster_id": "C156",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Anatomy-based estimates indicate that cortical stimulation can only sparsely affect long-range connections",
+    "presenter": "Dora Hermes",
+    "poster_id": "C157",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Spike Synchrony Resolves Stimulus Saliency and Familiarity",
+    "presenter": "Viktoria Zemliak",
+    "poster_id": "C158",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Occipital alpha oscillations negatively correlate with the vividness of mental imagery in healthy participants",
+    "presenter": "Aitor Morales-Gregorio",
+    "poster_id": "C159",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Unsupervised Identification of Behaviorally-relevant States in Biological and Artificial Neural Systems",
+    "presenter": "Arman Behrad",
+    "poster_id": "C160",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "CNeuroMod Data Collection Complete: 200h of individual fMRI Across Diverse Naturalistic and Controlled Tasks to build NeuroAI models",
+    "presenter": "Julie A. Boyle",
+    "poster_id": "C161",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Langevin Flows for Modeling Neural Latent Dynamics",
+    "presenter": "T. Anderson Keller",
+    "poster_id": "C162",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Comparing Brain-Score and ImageNet performance with responses to the scintillating grid illusion",
+    "presenter": "Martin Kent Kraus",
+    "poster_id": "C163",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "What governs the emergence of brain-like specialized neurons in artificial neural networks?",
+    "presenter": "Brian S Robinson",
+    "poster_id": "C164",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Common representations underlie idiosyncratic neural topographies",
+    "presenter": "Bogdan Petre",
+    "poster_id": "C165",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "From simple to complex: shared learning dynamics in humans and neural networks",
+    "presenter": "Christopher Summerfield",
+    "poster_id": "C166",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Brain-Like Pathways Form in Models With Heterogeneous Experts",
+    "presenter": "Jack Cook",
+    "poster_id": "C167",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Arousal dynamics predict transitions in engagement state",
+    "presenter": "Philippa A. Johnson",
+    "poster_id": "C168",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Auditory stimuli extend the temporal window of visual integration by modulating alpha-band oscillations",
+    "presenter": "Mengting Xu",
+    "poster_id": "C169",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Early learning of the optimal constant solution in neural networks and humans",
+    "presenter": "Jirko Rubruck",
+    "poster_id": "C170",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Traveling Waves Integrate Spatial Information Through Time",
+    "presenter": "Mozes Jacobs",
+    "poster_id": "C171",
+    "topic_area": "Brain Networks and Neural Dynamics",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "The Landscape of Neuroscience",
+    "presenter": "Mario Senden",
+    "poster_id": "C172",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Efficient Regularization of High-Dimensional Cerebellar Representations by Sparse Parallel Fiber Inputs: A Virtual Sample-based L2 Regularization Perspective",
+    "presenter": "Tae-Rim Yun",
+    "poster_id": "C173",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Constructing Representational Similarity Metrics Through Linear Decoding",
+    "presenter": "Sarah E Harvey",
+    "poster_id": "C174",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Longitudinal Multimodal Data Fusion Reveals Brain–Symptom Change Patterns in Depression",
+    "presenter": "Effat Salehi Far",
+    "poster_id": "C175",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "A hierarchical multivariate copula-based framework for cognitive modeling",
+    "presenter": "Jesper Fischer Ehmsen",
+    "poster_id": "C176",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Variance explained by different model components does not behave like a Venn diagram: Why variance decomposition provides misleading intuitions",
+    "presenter": "Jinkang Derrick Xiang",
+    "poster_id": "C177",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Boosting Hyperalignment Performance with Age-specific Templates",
+    "presenter": "Yuqi Zhang",
+    "poster_id": "C178",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Comparing Variance Partitioning and the Residual Method for Interpreting Brain Recordings",
+    "presenter": "Fatma Deniz",
+    "poster_id": "C179",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Learning Latent Spaces for Individualized Functional Neuroimaging with Variational Autoencoders",
+    "presenter": "Kajal Singla",
+    "poster_id": "C180",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Intrinsic dimensionality of brain activity manifolds across tasks and development",
+    "presenter": "Erica Lindsey Busch",
+    "poster_id": "C181",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "SenseNet: Neural Architecture Search Inspired by Adaptive Biological Sensing for Transparency and Adaptability",
+    "presenter": "Kirtana Sunil Phatnani",
+    "poster_id": "C182",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Using transfer learning to identify a neural network's algorithm",
+    "presenter": "John Morrison",
+    "poster_id": "C183",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Estimating Neural Representation Alignment from Sparsely Sampled Inputs and Features",
+    "presenter": "Chanwoo Chun",
+    "poster_id": "C184",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Evaluating Representational Similarity Measures from the Lens of Functional Correspondence",
+    "presenter": "Yiqing Bo",
+    "poster_id": "C185",
+    "topic_area": "Methods and Computational Tools",
+    "abstract": ""
+  }
+]
