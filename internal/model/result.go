@@ -1,8 +1,10 @@
 package model
 
+import "time"
+
 type Event struct {
-	Date      string `json:"date"`
-	Time      string `json:"time"`
+	StartTime time.Time `json:"start"`
+	EndTime   time.Time `json:"end"`
 	Title     string `json:"title"`
 	EventType string `json:"type"`
 	Location  string `json:"location"`

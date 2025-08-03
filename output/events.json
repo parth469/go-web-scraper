@@ -1,0 +1,401 @@
+[
+  {
+    "start": "2025-08-11T11:30:00Z",
+    "end": "2025-08-11T18:00:00Z",
+    "title": "Satellite Events",
+    "type": "Satellite",
+    "location": "Building A"
+  },
+  {
+    "start": "2025-08-12T08:00:00Z",
+    "end": "2025-08-12T17:30:00Z",
+    "title": "Registration Open",
+    "type": "Registration",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-12T09:00:00Z",
+    "end": "2025-08-12T09:30:00Z",
+    "title": "Coffee Break",
+    "type": "Break",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-12T09:30:00Z",
+    "end": "2025-08-12T10:45:00Z",
+    "title": "Mind Matching",
+    "type": "Networking",
+    "location": "Building H (restaurant)"
+  },
+  {
+    "start": "2025-08-12T10:45:00Z",
+    "end": "2025-08-12T11:15:00Z",
+    "title": "Coffee Break",
+    "type": "Break",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-12T11:15:00Z",
+    "end": "2025-08-12T11:30:00Z",
+    "title": "Opening Remarks",
+    "type": "Other",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-12T11:30:00Z",
+    "end": "2025-08-12T12:30:00Z",
+    "title": "Keynote Lecture:  Nancy Kanwisher",
+    "type": "Keynote",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-12T12:30:00Z",
+    "end": "2025-08-12T13:30:00Z",
+    "title": "Lunch Break",
+    "type": "Break",
+    "location": "On Your Own"
+  },
+  {
+    "start": "2025-08-12T01:30:00Z",
+    "end": "2025-08-12T16:30:00Z",
+    "title": "Poster Session A and Coffee",
+    "type": "Poster",
+    "location": "de Brug and E-Hall"
+  },
+  {
+    "start": "2025-08-12T04:30:00Z",
+    "end": "2025-08-12T17:30:00Z",
+    "title": "Keynote Lecture:  Anna SchapiroLearning representations of specifics and generalities over time",
+    "type": "Keynote",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-12T06:00:00Z",
+    "end": "2025-08-12T19:30:00Z",
+    "title": "Welcome ReceptionBadge Required",
+    "type": "Social",
+    "location": "Hotel Arena"
+  },
+  {
+    "start": "2025-08-13T07:30:00Z",
+    "end": "2025-08-13T18:00:00Z",
+    "title": "Registration Open",
+    "type": "Registration",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-13T08:00:00Z",
+    "end": "2025-08-13T08:30:00Z",
+    "title": "Coffee Break",
+    "type": "Break",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-13T08:30:00Z",
+    "end": "2025-08-13T09:30:00Z",
+    "title": "Keynote Lecture: Yasuo KuniyoshiFrom Embodiment To Super-Embodiment: A Constructive Approach To Open-Ended And Human Aligned Intelligence/Moral",
+    "type": "Keynote",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-13T09:30:00Z",
+    "end": "2025-08-13T10:00:00Z",
+    "title": "Coffee Break",
+    "type": "Break",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-13T10:00:00Z",
+    "end": "2025-08-13T12:00:00Z",
+    "title": "Naturalistic Games as a Benchmark to Bridge Cognitive Science, Computational Neuroscience and AI: A Community Led, Round-Table Discussion",
+    "type": "Community Event",
+    "location": "Room A1.02"
+  },
+  {
+    "start": "2025-08-13T10:00:00Z",
+    "end": "2025-08-13T12:00:00Z",
+    "title": "The Algonauts 2025 Project Challenge",
+    "type": "Community Event",
+    "location": "Room A1.03"
+  },
+  {
+    "start": "2025-08-13T10:00:00Z",
+    "end": "2025-08-13T12:00:00Z",
+    "title": "Universality and Idiosyncrasy of Perceptual Representations",
+    "type": "Community Event",
+    "location": "Room C1.03"
+  },
+  {
+    "start": "2025-08-13T10:00:00Z",
+    "end": "2025-08-13T12:00:00Z",
+    "title": "Conversations on Consciousness: How the CCN Community Can Contribute",
+    "type": "Community Event",
+    "location": "Room C1.04"
+  },
+  {
+    "start": "2025-08-13T12:00:00Z",
+    "end": "2025-08-13T13:00:00Z",
+    "title": "Lunch Break",
+    "type": "Break",
+    "location": "On Your Own"
+  },
+  {
+    "start": "2025-08-13T01:00:00Z",
+    "end": "2025-08-13T16:00:00Z",
+    "title": "Poster Session B and Coffee",
+    "type": "Poster",
+    "location": "de Brug and E-Hall"
+  },
+  {
+    "start": "2025-08-13T04:00:00Z",
+    "end": "2025-08-13T17:00:00Z",
+    "title": "Introducing the Three 2025 GAC Debates",
+    "type": "GAC",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-13T05:00:00Z",
+    "end": "2025-08-13T18:30:00Z",
+    "title": "Clarifying and reconciling different perspectives on the structure of the neural code",
+    "type": "GAC",
+    "location": "Room A1.02"
+  },
+  {
+    "start": "2025-08-13T05:00:00Z",
+    "end": "2025-08-13T18:30:00Z",
+    "title": "What shapes the ventral visual system in infancy - innate biases or experience?",
+    "type": "GAC",
+    "location": "Room A1.03"
+  },
+  {
+    "start": "2025-08-13T05:00:00Z",
+    "end": "2025-08-13T18:30:00Z",
+    "title": "What Benchmarks are Useful for Cognitive Science?",
+    "type": "GAC",
+    "location": "Room C1.03"
+  },
+  {
+    "start": "2025-08-14T07:30:00Z",
+    "end": "2025-08-14T18:00:00Z",
+    "title": "Registration Open",
+    "type": "Registration",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-14T08:00:00Z",
+    "end": "2025-08-14T08:30:00Z",
+    "title": "Coffee Break",
+    "type": "Break",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-14T08:30:00Z",
+    "end": "2025-08-14T09:30:00Z",
+    "title": "Keynote Lecture: David PoeppelRhythms and Algorithms: From Vibrations in the Ear to Abstractions in the Brain",
+    "type": "Keynote",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-14T09:30:00Z",
+    "end": "2025-08-14T10:00:00Z",
+    "title": "Coffee Break",
+    "type": "Break",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-14T10:00:00Z",
+    "end": "2025-08-14T11:00:00Z",
+    "title": "Visual Processing in Brains and Models I",
+    "type": "Contributed Talk",
+    "location": "Room C1.03"
+  },
+  {
+    "start": "2025-08-14T10:00:00Z",
+    "end": "2025-08-14T11:00:00Z",
+    "title": "Metacontrol and flexibility in inference and decision-making",
+    "type": "Contributed Talk",
+    "location": "Room C1.04"
+  },
+  {
+    "start": "2025-08-14T11:00:00Z",
+    "end": "2025-08-14T12:00:00Z",
+    "title": "Audition and Language",
+    "type": "Contributed Talk",
+    "location": "Room C1.03"
+  },
+  {
+    "start": "2025-08-14T11:00:00Z",
+    "end": "2025-08-14T12:00:00Z",
+    "title": "Cognitive and Neural Mechanisms of Social Behavior",
+    "type": "Contributed Talk",
+    "location": "Room C1.04"
+  },
+  {
+    "start": "2025-08-14T12:00:00Z",
+    "end": "2025-08-14T13:45:00Z",
+    "title": "Lunch Break",
+    "type": "Break",
+    "location": "On Your Own"
+  },
+  {
+    "start": "2025-08-14T12:15:00Z",
+    "end": "2025-08-14T13:45:00Z",
+    "title": "Networking Lunch",
+    "type": "Networking",
+    "location": "Building H (restaurant)"
+  },
+  {
+    "start": "2025-08-14T01:45:00Z",
+    "end": "2025-08-14T15:45:00Z",
+    "title": "Digital Brain Models for Working Memory",
+    "type": "KandT Keynote",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-14T01:45:00Z",
+    "end": "2025-08-14T15:45:00Z",
+    "title": "Language: In search of a neural code",
+    "type": "KandT Keynote",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-14T01:45:00Z",
+    "end": "2025-08-14T15:45:00Z",
+    "title": "Uncovering algorithms of visual cognition with multilevel computational theories",
+    "type": "KandT Keynote",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-14T03:45:00Z",
+    "end": "2025-08-14T16:15:00Z",
+    "title": "Coffee Break",
+    "type": "Break",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-14T04:15:00Z",
+    "end": "2025-08-14T18:00:00Z",
+    "title": "Digital Brain Models for Working Memory",
+    "type": "KandT Tutorial",
+    "location": "Room A1.03"
+  },
+  {
+    "start": "2025-08-14T04:15:00Z",
+    "end": "2025-08-14T18:00:00Z",
+    "title": "Language: In search of a neural code",
+    "type": "KandT Tutorial",
+    "location": "Room C1.03"
+  },
+  {
+    "start": "2025-08-14T04:15:00Z",
+    "end": "2025-08-14T18:00:00Z",
+    "title": "Uncovering algorithms of visual cognition with multilevel computational theories",
+    "type": "KandT Tutorial",
+    "location": "Room C1.04"
+  },
+  {
+    "start": "2025-08-14T04:15:00Z",
+    "end": "2025-08-14T18:00:00Z",
+    "title": "Representational Alignment (Re^3-Align Collaborative Hackathon)",
+    "type": "Community Event",
+    "location": "Room A2.11"
+  },
+  {
+    "start": "2025-08-14T19:00:00Z",
+    "end": "2025-08-14T00:00:00Z",
+    "title": "Social EventTicket Required",
+    "type": "Social",
+    "location": "Ijver"
+  },
+  {
+    "start": "2025-08-15T08:30:00Z",
+    "end": "2025-08-15T18:00:00Z",
+    "title": "Registration Open",
+    "type": "Registration",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-15T09:00:00Z",
+    "end": "2025-08-15T09:30:00Z",
+    "title": "Coffee Break",
+    "type": "Break",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-15T09:30:00Z",
+    "end": "2025-08-15T10:30:00Z",
+    "title": "Keynote Lecture:  Ellie PavlickWhat came first, the sum or the parts? Emergent compositionality in neural networks",
+    "type": "Keynote",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-15T10:30:00Z",
+    "end": "2025-08-15T11:00:00Z",
+    "title": "Coffee Break",
+    "type": "Break",
+    "location": "A Hall"
+  },
+  {
+    "start": "2025-08-15T11:00:00Z",
+    "end": "2025-08-15T12:00:00Z",
+    "title": "Neural mechanisms of learning and memory: from synapses to systems",
+    "type": "Contributed Talk",
+    "location": "Room C1.03"
+  },
+  {
+    "start": "2025-08-15T11:00:00Z",
+    "end": "2025-08-15T12:00:00Z",
+    "title": "Representational Alignment",
+    "type": "Contributed Talk",
+    "location": "Room C1.04"
+  },
+  {
+    "start": "2025-08-15T12:00:00Z",
+    "end": "2025-08-15T13:00:00Z",
+    "title": "Neural Computations: Dynamics Across Space, Time, and Task",
+    "type": "Contributed Talk",
+    "location": "Room C1.03"
+  },
+  {
+    "start": "2025-08-15T12:00:00Z",
+    "end": "2025-08-15T13:00:00Z",
+    "title": "Visual Processing in Brains and Models II",
+    "type": "Contributed Talk",
+    "location": "Room C1.04"
+  },
+  {
+    "start": "2025-08-15T01:00:00Z",
+    "end": "2025-08-15T14:00:00Z",
+    "title": "Lunch Break",
+    "type": "Break",
+    "location": "On Your Own"
+  },
+  {
+    "start": "2025-08-15T02:00:00Z",
+    "end": "2025-08-15T17:00:00Z",
+    "title": "Poster Session C and Coffee",
+    "type": "Poster",
+    "location": "de Brug and E-Hall"
+  },
+  {
+    "start": "2025-08-15T05:00:00Z",
+    "end": "2025-08-15T18:00:00Z",
+    "title": "Keynote Lecture:  Pieter RoelfsemaBrain mechanisms for conscious visual perception of coherent objects and the technology to restore it in blindness",
+    "type": "Keynote",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-15T06:15:00Z",
+    "end": "2025-08-15T19:00:00Z",
+    "title": "Community Meeting",
+    "type": "Other",
+    "location": "Room A0.01"
+  },
+  {
+    "start": "2025-08-15T06:15:00Z",
+    "end": "2025-08-15T19:00:00Z",
+    "title": "",
+    "type": "",
+    "location": ""
+  }
+]
